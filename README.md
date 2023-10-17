@@ -15,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+        <a align="left" href="https://am.linkedin.com/in/narek-babayan-ab53191a5" target="_blank">Linkedin</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
