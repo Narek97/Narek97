@@ -82,10 +82,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Narek97/Narek97/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/Narek97/count.svg?"  />
 </div>
