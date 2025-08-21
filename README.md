@@ -17,9 +17,15 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer with proven exp
 I specialize in both frontend and backend development, leveraging my expertise to create seamless user experiences and efficient server-side logic. My approach emphasizes clean code, scalability, and best practices, keeping up with the ever-evolving tech landscape to deliver top-notch solutions.
 
 ### 📈 GitHub Analytics
-![Narek97's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Narek97&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Narek97&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Narek97&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Narek97&show_icons=true&theme=radical" alt="Narek97's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narek97&layout=compact&theme=radical" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Narek97&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-contributor-graph.vercel.app/api?username=Narek97&limit=10" alt="GitHub Contributor Graph" />
+</p>
 
 ### 🤝 Contributor Graph
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Narek97&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
