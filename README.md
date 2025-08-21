@@ -23,8 +23,6 @@ I specialize in both frontend and backend development, leveraging my expertise t
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narek97&layout=compact&theme=radical" alt="Top Languages" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Narek97&theme=radical" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-contributor-graph.vercel.app/api?username=Narek97&limit=10" alt="GitHub Contributor Graph" />
 </p>
 
 ### 🤝 Contributor Graph
